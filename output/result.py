@@ -1,7 +1,6 @@
 import sys
 sys.path.append(".")
 
-from Input import view
 from Main import main
 
 # read_file = view.Read_File()
